@@ -129,6 +129,20 @@
     \date{2019-05-17}
 
 \usepackage{booktabs}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{colortbl}
+\usepackage{pdflscape}
+\usepackage{tabu}
+\usepackage{threeparttable}
+\usepackage{threeparttablex}
+\usepackage[normalem]{ulem}
+\usepackage{makecell}
+\usepackage{xcolor}
 
 \begin{document}
 \maketitle
@@ -245,6 +259,23 @@ What is the desired outcome of this project?
 \item
   Is there other risk? too small dataset? Too much missing data?
 \end{itemize}
+
+\begin{wraptable}{r}{0pt}[t]
+
+\caption{\label{tab:unnamed-chunk-3}Risks and Mitigation Table}
+\centering
+\begin{tabular}{l|l|l|l}
+\hline
+  & ID & Risk & Mitigation\\
+\hline
+risk1 & 1 & Risk1 & Mitigation1\\
+\hline
+risk2 & 2 & Risk1 & Mitigation1\\
+\hline
+risk3 & 3 & Risk1 & Mitigation1\\
+\hline
+\end{tabular}
+\end{wraptable}
 
 \hypertarget{timetables-and-milestones}{%
 \chapter{Timetables and Milestones}\label{timetables-and-milestones}}

@@ -5,3 +5,23 @@
 - Do you have access to the software?
 - What if your method will not work out? Is there such a risk?
 - Is there other risk? too small dataset? Too much missing data?
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+columnnames <- c("ID","Risk","Mitigation")
+r1 <- c(1,"This is Risk 1","This is a mitigation")
+r2 <- c(2,"This is Risk 2","This is also a mitigation")
+r3 <- c(3,"This is Risk 3","This is the last mitigation")
+
+risks <- rbind(r1, r2, r3)
+
+colnames(risks) <- columnnames
+
+library(knitr)
+library(kableExtra)
+kable(risks,
+  caption = 'Risks and Mitigation Table') %>%
+  kable_styling(bootstrap_options = "striped", full_width = F)
+
+```
+
