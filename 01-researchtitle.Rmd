@@ -1,0 +1,11 @@
+# Research Title {#title}
+
+Max. 10 words
+
+Write down the title of your research
+
+**Example:**
+
+Investigate risk factors for eye disease from complex longitudinal datasets
+
+
