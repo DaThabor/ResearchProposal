@@ -1,0 +1,25 @@
+# Details of Research project
+
+Max. 2000 words
+
+## Aims and objectives
+
+**Aim:** What are you going to do?
+
+**Objective:** Precise and accurate statement what you are going to study
+
+## Work leading up to this project
+
+Use existing literature to say what work has lead up to this project. Use references in this part
+
+## Data
+
+Describe the data that you are going to use for this project
+
+- Will you collect data on people? If yes, do you have ethical approval?
+- Will you use existing data? If yes, do you need and do you have approval?
+- Processing of the data and the analysis
+  - What methods are you using for data cleaning, data management?
+  - What methods do you use to avoid bias (bias due to missing data or due to confounders)?
+  - What data analyis (DS or ML) methods will you use?
+  - What software will you use and do you have it installed and will you need to learn to use it?

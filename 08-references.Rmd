@@ -1,0 +1,6 @@
+List all referencesthat are relevant and led to this proposal (properly cited)
+
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
