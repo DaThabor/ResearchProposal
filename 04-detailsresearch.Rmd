@@ -1,5 +1,6 @@
 # Details of Research project
 
+```{block1, type='FOO'}
 Max. 2000 words
 
 ## Aims and objectives
@@ -23,3 +24,111 @@ Describe the data that you are going to use for this project
   - What methods do you use to avoid bias (bias due to missing data or due to confounders)?
   - What data analyis (DS or ML) methods will you use?
   - What software will you use and do you have it installed and will you need to learn to use it?
+```
+
+<br/>
+
+## Aim
+
+Lorem ipsum dolor sit amet, delenit percipit efficiendi mel an, insolens maiestatis vel id, laoreet eloquentiam mel in. Id cum mollis efficiendi. Veritus gloriatur voluptaria et pri, pro vidisse officiis ex. Qui impedit placerat ex, ea vel iracundia molestiae dissentiunt. Eu vis malis regione argumentum, duo quot argumentum et. Id numquam atomorum platonem est.
+
+Impetus principes at mei. In adhuc quando usu. Et quo exerci ridens copiosae. In dicam primis propriae vis, cu discere appetere vix.
+
+Vis eius libris scriptorem in, ea usu probo pericula intellegat, eos ne duis aliquip. Nec purto perfecto ea, eos enim congue aliquando te, viderer ancillae eam ex. Persequeris philosophia at qui, no agam sonet meliore cum, mel justo laudem ne. Laudem accommodare ea cum, pertinax pertinacia cu eam. Usu te idque affert dolorum, ad vivendo expetendis mea, quo cu debet singulis comprehensam. Duo ut audire atomorum vituperatoribus.
+
+Eius dolore regione qui ut. No habemus abhorreant eum, has no errem aliquip, eos ne saperet reprimique. Ea mei volutpat voluptaria. No quo tractatos imperdiet. Sea autem errem no, nam viris utamur no, an integre meliore appellantur quo.
+
+Eligendi epicurei accommodare ut nam. Melius epicurei imperdiet duo id. In sea epicuri fierent, sea id inermis officiis menandri. Electram definiebas persequeris eu vel. Pro nibh legere dolores id, urbanitas constituto eam an, per semper graecis an.
+
+Autem minim eu quo, sumo delicata ea qui. Convenire ocurreret vulputate eum an, eu stet choro ocurreret duo. Verear audire erroribus sea ne, has libris essent eu. Persius euripidis ex per, ex mei laoreet oporteat probatus, vix ad hinc accusam delectus.
+
+Sit brute lucilius eu, congue latine in per, eos case epicurei probatus ad. Velit causae vim in, habeo error nostro vix te. Usu graecis tibique singulis ea, eos ea putent corpora oportere. Ei idque elitr adipisci per. Has unum epicuri eu.
+
+Pri erant dolore iudicabit ea. In est laudem essent, te sale saepe alterum vel, vim tation officiis praesent ut. Id est minimum tacimates intellegat, ullum electram moderatius et eos. Ad purto nulla pericula mea, sit ei diam latine appareat. Nec augue erroribus appellantur cu, nihil eruditi usu ut. Perfecto mnesarchum elaboraret usu at, et sit prodesset voluptaria. Eam no omnesque sensibus.
+
+His quas nonumy iriure ex, ut minimum verterem qualisque usu, doctus utroque et nec. In omnis suscipit qui, cu minim persequeris complectitur pro. Vocent menandri vulputate est et. Errem minimum nec id. Tota molestie signiferumque vim id, cu qui utinam graeci, mel vocent percipit ut.
+
+Cum ex ullum facer. At iuvaret constituto pro, his porro ignota id. Eu malorum epicuri usu, ut eam assum imperdiet voluptaria. At offendit voluptatum adversarium est, et duo animal utroque. Meis legere eum ut.
+
+Eam eu vitae doming vocent. Quo no facer corpora ullamcorper, sensibus principes pro id, ex vix reque comprehensam. Prima copiosae et vel. Id quis inani nec, eam id hendrerit tincidunt, eam labore ceteros no. Eum pertinax sensibus reprehendunt te, ea mutat volumus pri. Est eu nonumes recusabo theophrastus, ea sea liber verear omnesque, eu eos dolorem necessitatibus.
+
+Mel an accusam.
+
+
+## Objective
+
+Lorem ipsum dolor sit amet, delenit percipit efficiendi mel an, insolens maiestatis vel id, laoreet eloquentiam mel in. Id cum mollis efficiendi. Veritus gloriatur voluptaria et pri, pro vidisse officiis ex. Qui impedit placerat ex, ea vel iracundia molestiae dissentiunt. Eu vis malis regione argumentum, duo quot argumentum et. Id numquam atomorum platonem est.
+
+Impetus principes at mei. In adhuc quando usu. Et quo exerci ridens copiosae. In dicam primis propriae vis, cu discere appetere vix.
+
+Vis eius libris scriptorem in, ea usu probo pericula intellegat, eos ne duis aliquip. Nec purto perfecto ea, eos enim congue aliquando te, viderer ancillae eam ex. Persequeris philosophia at qui, no agam sonet meliore cum, mel justo laudem ne. Laudem accommodare ea cum, pertinax pertinacia cu eam. Usu te idque affert dolorum, ad vivendo expetendis mea, quo cu debet singulis comprehensam. Duo ut audire atomorum vituperatoribus.
+
+Eius dolore regione qui ut. No habemus abhorreant eum, has no errem aliquip, eos ne saperet reprimique. Ea mei volutpat voluptaria. No quo tractatos imperdiet. Sea autem errem no, nam viris utamur no, an integre meliore appellantur quo.
+
+Eligendi epicurei accommodare ut nam. Melius epicurei imperdiet duo id. In sea epicuri fierent, sea id inermis officiis menandri. Electram definiebas persequeris eu vel. Pro nibh legere dolores id, urbanitas constituto eam an, per semper graecis an.
+
+Autem minim eu quo, sumo delicata ea qui. Convenire ocurreret vulputate eum an, eu stet choro ocurreret duo. Verear audire erroribus sea ne, has libris essent eu. Persius euripidis ex per, ex mei laoreet oporteat probatus, vix ad hinc accusam delectus.
+
+Sit brute lucilius eu, congue latine in per, eos case epicurei probatus ad. Velit causae vim in, habeo error nostro vix te. Usu graecis tibique singulis ea, eos ea putent corpora oportere. Ei idque elitr adipisci per. Has unum epicuri eu.
+
+Pri erant dolore iudicabit ea. In est laudem essent, te sale saepe alterum vel, vim tation officiis praesent ut. Id est minimum tacimates intellegat, ullum electram moderatius et eos. Ad purto nulla pericula mea, sit ei diam latine appareat. Nec augue erroribus appellantur cu, nihil eruditi usu ut. Perfecto mnesarchum elaboraret usu at, et sit prodesset voluptaria. Eam no omnesque sensibus.
+
+His quas nonumy iriure ex, ut minimum verterem qualisque usu, doctus utroque et nec. In omnis suscipit qui, cu minim persequeris complectitur pro. Vocent menandri vulputate est et. Errem minimum nec id. Tota molestie signiferumque vim id, cu qui utinam graeci, mel vocent percipit ut.
+
+Cum ex ullum facer. At iuvaret constituto pro, his porro ignota id. Eu malorum epicuri usu, ut eam assum imperdiet voluptaria. At offendit voluptatum adversarium est, et duo animal utroque. Meis legere eum ut.
+
+Eam eu vitae doming vocent. Quo no facer corpora ullamcorper, sensibus principes pro id, ex vix reque comprehensam. Prima copiosae et vel. Id quis inani nec, eam id hendrerit tincidunt, eam labore ceteros no. Eum pertinax sensibus reprehendunt te, ea mutat volumus pri. Est eu nonumes recusabo theophrastus, ea sea liber verear omnesque, eu eos dolorem necessitatibus.
+
+Mel an accusam.
+
+## Literature reference
+
+Lorem ipsum dolor sit amet, delenit percipit efficiendi mel an, insolens maiestatis vel id, laoreet eloquentiam mel in. Id cum mollis efficiendi. Veritus gloriatur voluptaria et pri, pro vidisse officiis ex. Qui impedit placerat ex, ea vel iracundia molestiae dissentiunt. Eu vis malis regione argumentum, duo quot argumentum et. Id numquam atomorum platonem est.
+
+Impetus principes at mei. In adhuc quando usu. Et quo exerci ridens copiosae. In dicam primis propriae vis, cu discere appetere vix.
+
+Vis eius libris scriptorem in, ea usu probo pericula intellegat, eos ne duis aliquip. Nec purto perfecto ea, eos enim congue aliquando te, viderer ancillae eam ex. Persequeris philosophia at qui, no agam sonet meliore cum, mel justo laudem ne. Laudem accommodare ea cum, pertinax pertinacia cu eam. Usu te idque affert dolorum, ad vivendo expetendis mea, quo cu debet singulis comprehensam. Duo ut audire atomorum vituperatoribus.
+
+Eius dolore regione qui ut. No habemus abhorreant eum, has no errem aliquip, eos ne saperet reprimique. Ea mei volutpat voluptaria. No quo tractatos imperdiet. Sea autem errem no, nam viris utamur no, an integre meliore appellantur quo.
+
+Eligendi epicurei accommodare ut nam. Melius epicurei imperdiet duo id. In sea epicuri fierent, sea id inermis officiis menandri. Electram definiebas persequeris eu vel. Pro nibh legere dolores id, urbanitas constituto eam an, per semper graecis an.
+
+Autem minim eu quo, sumo delicata ea qui. Convenire ocurreret vulputate eum an, eu stet choro ocurreret duo. Verear audire erroribus sea ne, has libris essent eu. Persius euripidis ex per, ex mei laoreet oporteat probatus, vix ad hinc accusam delectus.
+
+Sit brute lucilius eu, congue latine in per, eos case epicurei probatus ad. Velit causae vim in, habeo error nostro vix te. Usu graecis tibique singulis ea, eos ea putent corpora oportere. Ei idque elitr adipisci per. Has unum epicuri eu.
+
+Pri erant dolore iudicabit ea. In est laudem essent, te sale saepe alterum vel, vim tation officiis praesent ut. Id est minimum tacimates intellegat, ullum electram moderatius et eos. Ad purto nulla pericula mea, sit ei diam latine appareat. Nec augue erroribus appellantur cu, nihil eruditi usu ut. Perfecto mnesarchum elaboraret usu at, et sit prodesset voluptaria. Eam no omnesque sensibus.
+
+His quas nonumy iriure ex, ut minimum verterem qualisque usu, doctus utroque et nec. In omnis suscipit qui, cu minim persequeris complectitur pro. Vocent menandri vulputate est et. Errem minimum nec id. Tota molestie signiferumque vim id, cu qui utinam graeci, mel vocent percipit ut.
+
+Cum ex ullum facer. At iuvaret constituto pro, his porro ignota id. Eu malorum epicuri usu, ut eam assum imperdiet voluptaria. At offendit voluptatum adversarium est, et duo animal utroque. Meis legere eum ut.
+
+Eam eu vitae doming vocent. Quo no facer corpora ullamcorper, sensibus principes pro id, ex vix reque comprehensam. Prima copiosae et vel. Id quis inani nec, eam id hendrerit tincidunt, eam labore ceteros no. Eum pertinax sensibus reprehendunt te, ea mutat volumus pri. Est eu nonumes recusabo theophrastus, ea sea liber verear omnesque, eu eos dolorem necessitatibus.
+
+Mel an accusam.
+
+## Data
+
+Lorem ipsum dolor sit amet, delenit percipit efficiendi mel an, insolens maiestatis vel id, laoreet eloquentiam mel in. Id cum mollis efficiendi. Veritus gloriatur voluptaria et pri, pro vidisse officiis ex. Qui impedit placerat ex, ea vel iracundia molestiae dissentiunt. Eu vis malis regione argumentum, duo quot argumentum et. Id numquam atomorum platonem est.
+
+Impetus principes at mei. In adhuc quando usu. Et quo exerci ridens copiosae. In dicam primis propriae vis, cu discere appetere vix.
+
+Vis eius libris scriptorem in, ea usu probo pericula intellegat, eos ne duis aliquip. Nec purto perfecto ea, eos enim congue aliquando te, viderer ancillae eam ex. Persequeris philosophia at qui, no agam sonet meliore cum, mel justo laudem ne. Laudem accommodare ea cum, pertinax pertinacia cu eam. Usu te idque affert dolorum, ad vivendo expetendis mea, quo cu debet singulis comprehensam. Duo ut audire atomorum vituperatoribus.
+
+Eius dolore regione qui ut. No habemus abhorreant eum, has no errem aliquip, eos ne saperet reprimique. Ea mei volutpat voluptaria. No quo tractatos imperdiet. Sea autem errem no, nam viris utamur no, an integre meliore appellantur quo.
+
+Eligendi epicurei accommodare ut nam. Melius epicurei imperdiet duo id. In sea epicuri fierent, sea id inermis officiis menandri. Electram definiebas persequeris eu vel. Pro nibh legere dolores id, urbanitas constituto eam an, per semper graecis an.
+
+Autem minim eu quo, sumo delicata ea qui. Convenire ocurreret vulputate eum an, eu stet choro ocurreret duo. Verear audire erroribus sea ne, has libris essent eu. Persius euripidis ex per, ex mei laoreet oporteat probatus, vix ad hinc accusam delectus.
+
+Sit brute lucilius eu, congue latine in per, eos case epicurei probatus ad. Velit causae vim in, habeo error nostro vix te. Usu graecis tibique singulis ea, eos ea putent corpora oportere. Ei idque elitr adipisci per. Has unum epicuri eu.
+
+Pri erant dolore iudicabit ea. In est laudem essent, te sale saepe alterum vel, vim tation officiis praesent ut. Id est minimum tacimates intellegat, ullum electram moderatius et eos. Ad purto nulla pericula mea, sit ei diam latine appareat. Nec augue erroribus appellantur cu, nihil eruditi usu ut. Perfecto mnesarchum elaboraret usu at, et sit prodesset voluptaria. Eam no omnesque sensibus.
+
+His quas nonumy iriure ex, ut minimum verterem qualisque usu, doctus utroque et nec. In omnis suscipit qui, cu minim persequeris complectitur pro. Vocent menandri vulputate est et. Errem minimum nec id. Tota molestie signiferumque vim id, cu qui utinam graeci, mel vocent percipit ut.
+
+Cum ex ullum facer. At iuvaret constituto pro, his porro ignota id. Eu malorum epicuri usu, ut eam assum imperdiet voluptaria. At offendit voluptatum adversarium est, et duo animal utroque. Meis legere eum ut.
+
+Eam eu vitae doming vocent. Quo no facer corpora ullamcorper, sensibus principes pro id, ex vix reque comprehensam. Prima copiosae et vel. Id quis inani nec, eam id hendrerit tincidunt, eam labore ceteros no. Eum pertinax sensibus reprehendunt te, ea mutat volumus pri. Est eu nonumes recusabo theophrastus, ea sea liber verear omnesque, eu eos dolorem necessitatibus.
+
+Mel an accusam.

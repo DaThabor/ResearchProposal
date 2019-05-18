@@ -1,3 +1,19 @@
 # Timetables and Milestones
 
+```{block1, type='FOO'}
 - A detailed plan with dates, what will you do each week
+```
+
+## Time Table
+
+ - Lorem ipsum dolor sit amet, illud delenit eu eos, quo te veri consulatu, nam dicant expetenda mnesarchum in? Ludus oportere ea pro! Noluisse definitionem usu ut, pro autem laoreet complectitur in. In vix feugiat pertinacia, sit suscipit splendide an! Quodsi impetus offendit nam eu, ei intellegat abhorreant cum.
+
+ - Mea ea quis assentior tincidunt, ne eos omnis facilisis. Id vim sonet quidam reprimique. Ad mei minim dolor gubergren, amet alii appetere ut per. Illud ignota omnium no cum, alienum tacimates no his. Dolore principes interesset sed te, tibique tractatos abhorreant ne his. Aeterno qualisque sed an, noster debitis inimicus mea ut. Ex sed alii scriptorem disputando?
+
+## Milestones
+
+1. Ad his dicam propriae laboramus, ei nam alii soleat signiferumque. Sale tempor eripuit in his, ea erant integre accommodare qui! Erat tibique ne nam, te postea assentior scripserit mea. Tritani viderer molestie has ut.
+
+2. Ad his dicam propriae laboramus, ei nam alii soleat signiferumque. Sale tempor eripuit in his, ea erant integre accommodare qui! Erat tibique ne nam, te postea assentior scripserit mea. Tritani viderer molestie has ut.
+
+3. Ad his dicam propriae laboramus, ei nam alii soleat signiferumque. Sale tempor eripuit in his, ea erant integre accommodare qui! Erat tibique ne nam, te postea assentior scripserit mea. Tritani viderer molestie has ut.

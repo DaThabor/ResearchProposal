@@ -1,5 +1,7 @@
-# Proposed Research
+# Proposed Research {#Proposed}
 
+
+```{block1, type='FOO'}
 Summary of your proposed research
 
 Max. 200 words
@@ -7,4 +9,26 @@ Max. 200 words
 This should be short and concised.
 
 - Needs to be written for a scientifically qualified assessor
+
 - it should contain motivation (with background) and your methods that you plan to use
+
+```
+
+<br/>
+
+## Motivation
+
+Lorem ipsum dolor sit amet, sed urbanitas delicatissimi cu, no est euismod neglegentur concludaturque. Has solum graece deseruisse ei, nec magna facilisis ne, an movet offendit convenire est. Nullam definitiones in mel. Omnes omittantur nam no.
+
+In petentium efficiendi nec, insolens repudiare qui in, discere legimus ne mei. Mea partem aliquam percipitur et, an dolor consul doming eum, vix ex saperet singulis evertitur. Ea persius vulputate his, cu summo voluptatum pri. Nihil probatus vituperata est te, vim virtute eligendi contentiones ea, nam omnium labitur ex.
+
+Impetus impedit qualisque in qui, facete luptatum theophrastus cu mea. Eam graeco iriure voluptatibus et, mei no justo soleat definitiones. An postea volumus denique vix. Alii sint vel ei.
+
+
+## Methods to use
+
+Iracundia prodesset usu te, nam ad omnes lobortis atomorum. Molestie reprehendunt no vim. Eros detraxit laboramus eu vel. No vel omnes accusata sententiae, utinam temporibus vix ex. Et sea tantas vivendum.
+
+Ius ut nihil consulatu. His te simul epicurei laboramus, ad sonet blandit oporteat vel, ex debet iudico eloquentiam nec. Et nec brute aeque choro. Utroque alienum ex sit, ex assum delicatissimi mea. Congue dignissim duo eu.
+
+Accumsan detracto maluisset et vim, recusabo laboramus cum in, has at audiam principes. Te prima numquam pri, erant feugiat.

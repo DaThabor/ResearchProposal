@@ -1,9 +1,14 @@
-# Research Title {#title}
+# Research Title {-}
 
+
+```{block1, type='FOO'}
 Max. 10 words
 
 Write down the title of your research
 
+```
+
+<br/>
 **Example:**
 
-Investigate risk factors for eye disease from complex longitudinal datasets
+_**Investigate risk factors for eye disease from complex longitudinal datasets**_

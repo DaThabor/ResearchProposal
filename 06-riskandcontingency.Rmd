@@ -1,11 +1,14 @@
 # Risks or Contingency Plan
 
+```{block1, type='FOO'}
 - Are there any risks? And if yes, then what is the plan to mitigate them?
 - Is there a coding issue? Do you have access to the right coding library?
 - Do you have access to the software?
 - What if your method will not work out? Is there such a risk?
 - Is there other risk? too small dataset? Too much missing data?
+```
 
+## Risk Table + Contingency Plan
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 columnnames <- c("ID","Risk","Mitigation")

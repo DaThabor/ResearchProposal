@@ -1,6 +1,25 @@
 # Research question
 
+```{block1, type='FOO'}
 Max 350 words
 
 - What is your research question or hypothesis?
 - Why is it important. Why are you researching this research question?
+```
+
+<br/>
+Lorem ipsum dolor sit amet, aperiam reprehendunt sit et, veniam blandit apeirian id duo. Sea ex purto disputando. Melius utamur intellegebat mel ex, vidisse laoreet disputationi ei qui. Graeci omnesque detraxit vel ad, pri cibo libris ea. Te inani persius duo, vim eu verear signiferumque, vel denique nominavi consequat et.
+
+His eius illum accusam an, pro no veniam urbanitas, eu elitr mollis intellegebat sed. Cum salutandi delicatissimi ut, cu quando utroque mel. Ex eam noster aliquam, has in unum dolore minimum. Ei vix doming electram, iriure iuvaret mea an, mei atqui debitis ea. Id his quas electram, euripidis adolescens est an. Id cum unum facilis, facete possim tamquam vel te. Est nominati aliquando cu, has wisi abhorreant ex.
+
+Eum nihil hendrerit voluptatum te. Vero volutpat reprehendunt cum te, epicurei expetendis in mei. Ne usu insolens constituto, id doming inciderint qui. Ut sit elitr tempor, eruditi gubergren vituperata eos ne.
+
+Paulo facilisi disputationi vim ei. Tamquam ullamcorper ius ne, ius no probo dicunt docendi, id pro oratio delectus dissentiunt. Per alia iriure scripta eu. Vel quidam maiorum interpretaris at. Sumo accusamus sea ad, delicata expetendis posidonium ea eum. Mea facilis accumsan nominati te.
+
+Ut his suas vidisse complectitur. Ne has malorum posidonium, dicunt constituam ne his. Dictas reprimique honestatis est te, choro consulatu eam an, voluptua perpetua ex pro. Accumsan facilisis conclusionemque nam ad. Ei congue fuisset sit, his no vidit etiam facilisi.
+
+Per luptatum voluptatum ex. Cu per scaevola salutatus quaerendum, te eam adhuc dolor. Electram scripserit complectitur id quo, mazim tritani vituperata te has, nec solum impedit epicuri ut. Errem honestatis pro eu, pri oratio deserunt constituam in, an has oratio doctus equidem. Persius expetenda nec ex. Odio cibo mei ei.
+
+Vivendum qualisque sit et. Per ea amet ocurreret, vim offendit ocurreret cu, modus lorem impetus cu pri. Nec an omnium facilis vulputate, id duo deserunt complectitur. Audiam laoreet appareat mel in, ei dissentias inciderint mea. Pro ex falli soluta, eam eleifend volutpat complectitur eu, ex amet vulputate vim.
+
+Hinc doming mel ex. Possim noluisse ad mel, mundi simul gubergren te eam, sit stet pertinacia ad. Salutandi dissentiunt ex.
